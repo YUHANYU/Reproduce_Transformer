@@ -53,5 +53,5 @@
   ![](https://github.com/YUHANYU/Reproduce_Transformer/blob/master/base%20%26%20big%20model/big%20model/train_val_acc.png)![](https://github.com/YUHANYU/Reproduce_Transformer/blob/master/base%20%26%20big%20model/big%20model/train_val_ppl.png)
   
   # 附件
-  *base model的训练最佳检查点*
+  ## base model的模型最佳保存点
   https://pan.baidu.com/s/1dM1Ukcva5t3Eb6VRV5ZOCQ   hv0a
