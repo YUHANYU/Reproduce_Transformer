@@ -51,3 +51,7 @@
   ## big model（d_model=1024， d_ff=4096，h=16，P_dropout=0.3, batch_size=32, epoch time≈00:03:24）
   ![](https://github.com/YUHANYU/Reproduce_Transformer/blob/master/base%20%26%20big%20model/big%20model/train_loss.png)![](https://github.com/YUHANYU/Reproduce_Transformer/blob/master/base%20%26%20big%20model/big%20model/val_loss.png)
   ![](https://github.com/YUHANYU/Reproduce_Transformer/blob/master/base%20%26%20big%20model/big%20model/train_val_acc.png)![](https://github.com/YUHANYU/Reproduce_Transformer/blob/master/base%20%26%20big%20model/big%20model/train_val_ppl.png)
+  
+  # 附件
+  *base model的训练最佳检查点*
+  https://pan.baidu.com/s/1dM1Ukcva5t3Eb6VRV5ZOCQ   hv0a
