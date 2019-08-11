@@ -1,0 +1,114 @@
+输入序列->：a british gentleman , dressed in full military uniform , waving his hat with a background of people sitting back and looking out onto the waterway .
+->预测序列：schuh schuh schulkinder schuh schuh schuh kann schulkinder kann mehreren kann schuh kann mehreren kann schulkinder kann schuh schulkinder kann schuh kann kann kann kann schuh kann kann kann schulkinder kann kann kann kann kann kann kann kann kann kann schuh kann kann schuh kann kann kann
+==目标序列：ein <unk> <unk> in voller <unk> uniform winkt mit seiner mutze <unk> zu , die im hintergrund sitzen und auf den <unk> blicken .
+
+输入序列->：a woman wearing a black tank top and a cross necklace stares off into the distance near sunset .
+->预测序列：traktor mehreren mehreren fahnen mehreren erwachsener aufzunehmen aufzunehmen mehreren mehreren mehreren mehreren mehreren mehreren mude mehreren mehreren lkw mehreren mehreren mehreren kann mehreren mehreren mehreren mehreren mehreren mehreren fahnen mehreren mehreren mehreren mehreren lkw mehreren kann mehreren kann mehreren erwachsener mehreren erwachsener bucherregal mehreren mehreren mehreren mehreren
+==目标序列：eine frau in einem schwarzen tank top mit einem <unk> halsband blickt kurz vor sonnenuntergang in die ferne .
+
+输入序列->：a youth with a black shirt that says asian <unk> plays a drum while sitting .
+->预测序列：schlecht schlecht kickt schlecht kickt kickt schlecht schlecht kickt mehreren schlecht kickt mehreren schlecht schlecht kickt kickt mehreren schlecht kickt kickt kickt mehreren schlecht kickt kickt kickt kickt kickt kickt mehreren schlecht kickt mehreren schlecht kickt schlecht kickt schlecht kickt schlecht kickt kickt schlecht kickt kickt kickt
+==目标序列：ein jugendlicher in einem schwarzen t shirt mit dem <unk> <unk> <unk> sitzt und spielt eine trommel .
+
+输入序列->：an older man in glasses is preparing meat .
+->预测序列：gelbes gepack gepack gepack gepack tanzflache gepack gepack gepack gepack gepack gepack gepack gepack gepack tanzflache gepack gepack gepack gepack gepack gepack fertig fertig fertig fertig fertig fertig gepack gepack gepack gepack gepack gepack gepack gepack gepack gepack gepack gepack gepack gepack gepack gepack gepack gepack gepack
+==目标序列：ein alterer mann mit brille bereitet fleisch zu .
+
+输入序列->：some leaping over a high bar in <unk> .
+->预测序列：kampfer entlang kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer puppe kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer
+==目标序列：jemand springt in <unk> uber ein <unk> .
+
+输入序列->：a man is leaning over and pulling something out of a bag .
+->预测序列：mehreren angel angel angel angel erwachsener mehreren angel erwachsener angel angel angel angel angel angel angel angel angel angel erwachsener angel angel angel angel angel angel angel angel angel angel angel angel angel angel angel angel angel angel angel angel angel angel angel angel angel angel angel
+==目标序列：ein mann beugt sich zur seite und zieht etwas aus einer tasche .
+
+输入序列->：the man with the cane is on a walk .
+->预测序列：armel armel armel armel armel armel armel armel armel getrank armel armel armel armel armel armel armel getrank armel armel armel armel armel armel armel armel armel armel armel armel armel banner getrank armel armel armel armel armel getrank banner getrank banner getrank kerle kerle armel armel
+==目标序列：der mann mit dem spazierstock macht einen spaziergang .
+
+输入序列->：a crane operates amidst piles of rubble .
+->预测序列：fahnen mehreren fahnen fahnen mehreren fahnen mehreren fahnen fahnen nummern halsketten fahnen mehreren fahnen mehreren fahnen mehreren fahnen mehreren fahnen mehreren fahnen mehreren fahnen mehreren fahnen mehreren fahnen mehreren fahnen mehreren fahnen fahnen fahnen mehreren fahnen fahnen mehreren fahnen fahnen mehreren fahnen mehreren fahnen fahnen mehreren fahnen
+==目标序列：ein kran arbeitet mitten in einem <unk> .
+
+输入序列->：an african american man surrounded by empty <unk> white buckets and dark colored crates <unk> himself through a message <unk> on cardboard .
+->预测序列：karohemd blume blume blume blume blume blume blume blume blume karohemd blume karohemd blume swimmingpool blume blume blume blume blume karohemd blume blume blume blume blume blume blume blume blume blume blume blume blume swimmingpool strecke blume blume blume blume blume karohemd blume blume blume blume blume
+==目标序列：ein afroamerikanischer mann ist umgeben von <unk> wei en eimern und <unk> kisten und druckt sich uber eine <unk> <unk> auf einem stuck karton aus .
+
+输入序列->：an older man with a cigarette in his mouth and a ball cap inspects his camera .
+->预测序列：schlecht entlang entlang damen entlang bucherregal damen entlang entlang bucherregal mehreren entlang mehreren bucherregal entlang bucherregal karte entlang entlang entlang bucherregal entlang kajak bucherregal karte damen entlang entlang bucherregal bucherregal mehreren schlecht entlang bucherregal getrank damen entlang bucherregal entlang kajak getrank getrank bucherregal damen getrank getrank getrank
+==目标序列：ein alterer mann mit einer zigarette im mund und einer mutze inspiziert seine kamera .
+
+输入序列->：a man talking to a family <unk> holding some sort of <unk> device as they look on and smile to be <unk> .
+->预测序列：eingang entlang eingang entlang eingang entlang eingang pinkfarbenen entlang eingang entlang entlang eingang entlang eingang entlang eingang entlang eingang entlang eingang entlang eingang entlang eingang entlang eingang entlang verkleidete entlang eingang roten entlang eingang entlang entlang eingang entlang entlang eingang entlang entlang eingang entlang eingang entlang eingang
+==目标序列：ein mann mit einer art <unk> spricht mit einer familie , die versucht , zu lacheln und <unk> zu sein .
+
+输入序列->：a man drinks from a <unk> while reading the paper .
+->预测序列：flache gepack gepack gepack gepack mehreren mehreren gepack mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren gepack mehreren mehreren gepack mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren gepack mehreren mehreren mehreren mehreren mehreren gepack mehreren mehreren mehreren gepack mehreren mehreren mehreren gepack mehreren mehreren gepack mehreren
+==目标序列：ein mann trinkt aus einem <unk> wahrend er eine zeitung liest .
+
+输入序列->：two motocross bikers wearing full protective gear , with one in midair after a jump and the other looking down at his motorcycle .
+->预测序列：gangern mehreren mehreren mehreren mehreren mehreren karte mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren
+==目标序列：zwei motocrossfahrer in voller schutzkleidung , einer von ihnen ist nach einem sprung in der luft , der andere blickt auf sein motorrad hinunter .
+
+输入序列->：a person is writing on a chalkboard in a empty classroom .
+->预测序列：dunkel eigenen dunkel dunkel dunkel dunkel dunkel dunkel dunkel brett dunkel dunkel dunkel dunkel dunkel dunkel dunkel dunkel dunkel dunkel dunkel dunkel dunkel dunkel dunkel dunkel dunkel dunkel dunkel dunkel dunkel dunkel dunkel dunkel dunkel dunkel dunkel dunkel dunkel dunkel dunkel dunkel dunkel dunkel dunkel dunkel dunkel
+==目标序列：eine person schreibt auf einer tafel in einem leeren klassenzimmer .
+
+输入序列->：a man sitting on a bench under a large tree .
+->预测序列：schneeanzug schneeanzug schneeanzug schneeanzug mehreren schneeanzug schneeanzug schneeanzug schneeanzug schneeanzug schneeanzug schneeanzug schneeanzug schneeanzug schneeanzug schneeanzug schneeanzug schneeanzug schneeanzug schneeanzug schneeanzug schneeanzug schneeanzug schneeanzug schneeanzug schneeanzug schneeanzug schneeanzug mehreren schneeanzug schneeanzug schneeanzug schneeanzug schneeanzug schneeanzug schneeanzug schneeanzug schneeanzug schneeanzug schneeanzug schneeanzug schneeanzug schneeanzug schneeanzug schneeanzug schneeanzug schneeanzug
+==目标序列：ein mann sitzt auf einer bank unter einem gro en baum .
+
+输入序列->：a baby playing with her toys looking at a black and white cat .
+->预测序列：schlecht schlecht schlecht schlecht kickt kickt schlecht kickt kickt schlecht schlecht schlecht schlecht schlecht kickt schlecht kickt schlecht kickt kickt schlecht kickt schlecht kickt schlecht kickt schlecht kickt schlecht kickt schlecht kickt schlecht kickt schlecht kickt schlecht kickt schlecht schlecht kickt schlecht kickt schlecht kickt fahnen schlecht
+==目标序列：ein baby spielt mit seinem spielzeug und betrachtet eine schwarz wei e katze .
+
+输入序列->：two workers spread cement onto a brick building .
+->预测序列：beaufsichtigt wasserski wasserski wasserski wasserski spult wasserski wasserski wasserski wasserski wasserski wasserski wasserski gestreiftes wasserski spult wasserski gestreiftes gestreiftes einzelne wasserski beaufsichtigt gestreiftes einzelne wasserski gestreiftes wasserski spult wasserski spult spult wasserski spult gestreiftes einzelne wasserski spult spult spult spult wasserski spult spult wasserski spult spult spult
+==目标序列：zwei arbeiter spritzen zement auf einen ziegelbau .
+
+输入序列->：a young man and women near a large metal sculpture
+->预测序列：entlang mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren konzentriert mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren gestreiftes mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren
+==目标序列：ein junger mann und frauen nahe einer gro en <unk>
+
+输入序列->：a young boy in a soccer uniform crying into his <unk> .
+->预测序列：befestigen befestigen befestigen wunderschone lied mude mude mude gangern mude mude mude mude mude mude lied mude mude mude mude mude mude mude mude mude mude mude mude mude mude mude mude mude mude mude mude mude mude mude mude mude mude mude mude mude mude gangern
+==目标序列：ein kleiner junge im fu balldress halt die hande <unk> gesicht und weint .
+
+输入序列->：four black men are sitting on the steps of a church .
+->预测序列：beaufsichtigt beaufsichtigt beaufsichtigt beaufsichtigt kickt kickt beaufsichtigt gestreiftes beaufsichtigt gestreiftes beaufsichtigt gestreiftes beaufsichtigt gestreiftes kickt beaufsichtigt beaufsichtigt gestreiftes beaufsichtigt kickt beaufsichtigt beaufsichtigt beaufsichtigt beaufsichtigt gestreiftes beaufsichtigt gestreiftes kickt beaufsichtigt kickt beaufsichtigt gestreiftes kickt beaufsichtigt kickt beaufsichtigt beaufsichtigt kickt beaufsichtigt gestreiftes kickt beaufsichtigt kickt beaufsichtigt kickt beaufsichtigt kopftuchern
+==目标序列：vier schwarze manner sitzen auf den stufen einer kirche .
+
+输入序列->：a boy in white shorts is jumping into a lake or river .
+->预测序列：erwachsener erwachsener erwachsener erwachsener erwachsener erwachsener erwachsener erwachsener erwachsener spult erwachsener erwachsener erwachsener erwachsener erwachsener erwachsener erwachsener erwachsener erwachsener erwachsener erwachsener erwachsener erwachsener erwachsener erwachsener erwachsener erwachsener erwachsener erwachsener erwachsener erwachsener erwachsener erwachsener erwachsener erwachsener erwachsener erwachsener erwachsener erwachsener erwachsener erwachsener erwachsener erwachsener erwachsener erwachsener erwachsener erwachsener
+==目标序列：ein junge in wei en shorts springt in einen see oder einen fluss .
+
+输入序列->：a policeman is on a bike waiting for the light to <unk> .
+->预测序列：schlecht kappe gelander fertig schlecht schlecht schlecht fertig schlecht schlecht schlecht schlecht schlecht schlecht schlecht schlecht schlecht fertig amusiert kappe amusiert kappe kappe kickt kappe kappe kappe kickt schlecht kappe kappe kappe kappe amusiert kappe kappe schlecht fertig fertig amusiert kappe kappe passagiere schlecht puppe kappe kappe
+==目标序列：ein polizist sitzt auf dem motorrad und wartet , bis die ampel auf grun springt .
+
+输入序列->：a gymnast wearing red and white is mid <unk> on an <unk> bar .
+->预测序列：eishockeyspiel her her montur her her her her her her her her her her angezogene angezogene angezogene angezogene angezogene angezogene angezogene her montur her montur her her angezogene her angezogene angezogene angezogene her angezogene angezogene angezogene angezogene angezogene angezogene angezogene angezogene angezogene angezogene angezogene angezogene angezogene angezogene
+==目标序列：ein turner in rot und wei in der <unk> auf einem <unk> balken .
+
+输入序列->：the two dogs , one with a tennis ball in its mouth , are running through tall grass .
+->预测序列：davon tragen tragen tragen tragen tragen tragen tragen tragen tragen tragen tragen tragen tragen tragen tragen tragen tragen tragen tragen tragen tragen tragen tragen tragen tragen tragen tragen tragen tragen tragen tragen tragen tragen tragen tragen tragen tragen tragen tragen tragen tragen tragen tragen tragen tragen tragen
+==目标序列：die zwei hunde , einer mit einem tennisball im maul , laufen durch hohes gras .
+
+输入序列->：a man seated on a platform with wheels is being pulled by a <unk> .
+->预测序列：schlecht schlecht gepack schlecht schlecht schlecht schlecht schlecht schlecht schlecht schlecht gepack schlecht schlecht schlecht schlecht schlecht fertig schlecht schlecht schlecht schlecht schlecht schlecht schlecht schlecht schlecht kalte schlecht schlecht schlecht schlecht schlecht schlecht gepack schlecht schlecht schlecht schlecht schlecht schlecht gepack schlecht schlecht kalte schlecht schlecht
+==目标序列：ein mann sitzt auf einer plattform mit radern und wird an einem loch <unk> .
+
+输入序列->：a female police officer in a cap and navy uniform smiles while wearing sunglasses outside of a shop .
+->预测序列：entlang wanderweg mehreren wanderweg mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren wanderweg mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren mehreren
+==目标序列：eine polizistin mit mutze und blauer uniform tragt eine sonnenbrille und lachelt vor einem geschaft .
+
+输入序列->：two women in military uniform are standing with other soldiers in formation .
+->预测序列：aufzunehmen aufzunehmen aufzunehmen auf aufzunehmen aufzunehmen aufzunehmen aufzunehmen aufzunehmen aufzunehmen aufzunehmen aufzunehmen aufzunehmen aufzunehmen aufzunehmen aufzunehmen aufzunehmen aufzunehmen aufzunehmen aufzunehmen aufzunehmen auf aufzunehmen aufzunehmen aufzunehmen aufzunehmen aufzunehmen aufzunehmen aufzunehmen aufzunehmen aufzunehmen aufzunehmen aufzunehmen aufzunehmen aufzunehmen aufzunehmen aufzunehmen aufzunehmen aufzunehmen aufzunehmen aufzunehmen aufzunehmen aufzunehmen aufzunehmen aufzunehmen aufzunehmen aufzunehmen
+==目标序列：zwei frauen in <unk> stehen mit anderen soldaten in <unk> .
+
+输入序列->：a dirt floor gets <unk> by one white and one black woman .
+->预测序列：geschoben gepack geschoben ihren ihren ihren gepack geschoben ihren ihren geschoben ihren ihren getrank geschoben geschoben gepack geschoben ihren geschoben ihren geschoben geschoben geschoben geschoben ihren ihren ihren ihren geschoben geschoben ihren geschoben ihren ihren geschoben ihren ihren ihren ihren geschoben geschoben geschoben ihren geschoben ihren geschoben
+==目标序列：eine schwarze und eine wei e frau wischen einen schmutzigen boden .
+
+输入序列->：two large dogs are fighting in a dirt field .
+->预测序列：kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kunstler kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kunstler kunstler kunstler kunstler kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer kampfer
