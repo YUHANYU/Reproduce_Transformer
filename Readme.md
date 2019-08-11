@@ -45,5 +45,9 @@
 # 可视化
 
   ## base model（d_model=512， d_ff=2048，h=8, P_dropout=0.1, batch_size=128, epoch time≈00:01:40）
+  ![](https://github.com/YUHANYU/Reproduce_Transformer/blob/master/base%20%26%20big%20model/base%20model/train_loss.png)![](https://github.com/YUHANYU/Reproduce_Transformer/blob/master/base%20%26%20big%20model/base%20model/val_loss.png)
+  ![](https://github.com/YUHANYU/Reproduce_Transformer/blob/master/base%20%26%20big%20model/base%20model/train_val_acc.png)![](https://github.com/YUHANYU/Reproduce_Transformer/blob/master/base%20%26%20big%20model/base%20model/train_val_ppl.png)
 
   ## big model（d_model=1024， d_ff=4096，h=16，P_dropout=0.3, batch_size=32, epoch time≈00:03:24）
+  ![](https://github.com/YUHANYU/Reproduce_Transformer/blob/master/base%20%26%20big%20model/big%20model/train_loss.png)![](https://github.com/YUHANYU/Reproduce_Transformer/blob/master/base%20%26%20big%20model/big%20model/val_loss.png)
+  ![](https://github.com/YUHANYU/Reproduce_Transformer/blob/master/base%20%26%20big%20model/big%20model/train_val_acc.png)![](https://github.com/YUHANYU/Reproduce_Transformer/blob/master/base%20%26%20big%20model/big%20model/train_val_ppl.png)
