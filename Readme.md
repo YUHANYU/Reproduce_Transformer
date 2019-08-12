@@ -19,6 +19,7 @@
 - [ ] 数据修改word形式为sub-word形式
 - [ ] 增加tensorboard可视化（pytorch 1.1.0）
 - [ ] 增加tensorboardX可视化
+- [ ] 增加label smooth
 
 # 运行环境
 + pytorch 1.1.0（可使用tensorboard）
