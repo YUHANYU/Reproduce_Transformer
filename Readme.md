@@ -54,19 +54,11 @@
   ![](https://github.com/YUHANYU/Reproduce_Transformer/blob/master/base%20%26%20big%20model/big%20model/train_val_acc.png)![](https://github.com/YUHANYU/Reproduce_Transformer/blob/master/base%20%26%20big%20model/big%20model/train_val_ppl.png)
   
   # 结果测评
-  + Transformer
-  + BLEU
-  + METEOR
+  + Transformer &nbsp;| BLEU &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| METEOR
   
-  + base model
-  + 38.7/32.46
-  + 35.4
+  + base model &nbsp;| 38.7/32.46 &nbsp;| 35.4
   
-  + big model
-  + 23.98/25.96
-  + 27.7
-  
-  big model>>| 
+  + big model &nbsp;&nbsp;&nbsp;| 23.98/25.96 &nbsp;| 27.7
   
   
   # 附件
