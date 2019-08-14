@@ -53,6 +53,22 @@
   ![](https://github.com/YUHANYU/Reproduce_Transformer/blob/master/base%20%26%20big%20model/big%20model/train_loss.png)![](https://github.com/YUHANYU/Reproduce_Transformer/blob/master/base%20%26%20big%20model/big%20model/val_loss.png)
   ![](https://github.com/YUHANYU/Reproduce_Transformer/blob/master/base%20%26%20big%20model/big%20model/train_val_acc.png)![](https://github.com/YUHANYU/Reproduce_Transformer/blob/master/base%20%26%20big%20model/big%20model/train_val_ppl.png)
   
+  # 结果测评
+  + Transformer
+  + BLEU
+  + METEOR
+  
+  + base model
+  + 38.7/32.46
+  + 35.4
+  
+  + big model
+  + 23.98/25.96
+  + 27.7
+  
+  big model>>| 
+  
+  
   # 附件
   ## base model的模型最佳保存点
   https://pan.baidu.com/s/1dM1Ukcva5t3Eb6VRV5ZOCQ   hv0a
